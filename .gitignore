@@ -3,4 +3,3 @@
 
 #ignoramos los archivos con *.log
 *.log
-*.py
